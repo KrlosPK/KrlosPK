@@ -1,4 +1,4 @@
-## Front-End Developer
+## Web Developer (Front-end)
 - 👋 Hi, I’m @KrlosPK
 - 👀 I’m interested in Being a Full Stack Developer
 - 🌱 I’m currently learning JavaScript
