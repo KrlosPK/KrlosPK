@@ -93,3 +93,5 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krlospk&show_icons=true&theme=dark&locale=en" alt="krlospk" />
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krlospk&label=Profile%20views&color=blueviolet&style=plastic" alt="krlospk" /></p>
