@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Morales</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Angular and Nextjs** - 💬 Ask me about **React, JavaScript, CSS** - 📫 How to reach me **centille095@gmail.com**
+- 🌱 I’m currently learning **Angular and Nextjs**
+- 💬 Ask me about **React, TypeScript, SASS**
+- 📫 How to reach me **centille095@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,6 +85,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
 </p>
+
 <p>
   <img
     align="left"
@@ -91,9 +94,23 @@
   />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krlospk&show_icons=true&theme=dark&locale=en" alt="krlospk" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=krlospk&show_icons=true&theme=dark&locale=en"
+    alt="krlospk"
+  />
+</p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=krlospk&theme=dark"
+    alt="krlospk"
+  />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krlospk&" alt="krlospk" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krlospk&label=Profile%20views&color=blueviolet&style=plastic" alt="krlospk" /></p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=krlospk&label=Profile%20views&color=blueviolet&style=plastic"
+    alt="krlospk"
+  />
+</p>
