@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Angular and Nextjs**
 - 💬 Ask me about **React, TypeScript, SASS**
 - 📫 How to reach me **centille095@gmail.com**
+- 💼 Personal Portfolio: https://krlospk.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
