@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Morales</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Angular and Nextjs**
-- 💬 Ask me about **React, TypeScript, SASS**
+- 🌱 I’m currently learning **SpringBoot**
+- 💬 Ask me about **Angular, React, TypeScript & Java**
 - 📫 How to reach me **carlose.morales1904@gmail.com**
 - 💼 Personal Portfolio: https://krlospk.github.io
 
